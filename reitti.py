@@ -10,9 +10,10 @@
 import time
 import json
 
-roadtable_file="reittiopas.json"
-coordinates_file="coordinates.json"
-colors_file="colors.json"
+
+roadtable_file="static/reittiopas.json"
+coordinates_file="static/coordinates.json"
+colors_file="static/colors.json"
 
 roadtable,coordinates,shortest="","",""
 
