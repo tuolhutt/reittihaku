@@ -14,7 +14,7 @@ Kehitetty Linux-käyttöjärjestelmää (Debian-based) käyttäen.
 
 # Käyttäminen lokaalisti (Linux)
 
-* Gitin kopioiminen:
+* Gitin kopioiminen
 
 `git clone https://github.com/tuolhutt/reittihaku.git`
 
