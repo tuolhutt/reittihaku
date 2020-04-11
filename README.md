@@ -1,6 +1,8 @@
-# reittihaku
+# Reittihaku-applikaatio
 
-Reittihaku-applikaatio (Solidabis koodihaaste, [nettisivu](https://koodihaaste.solidabis.com/))
+Tekijä: Tuomo Huttu
+
+Ratkaisuni Solidabis koodihaasteeseen ([nettisivu](https://koodihaaste.solidabis.com/))
 
 
 # Käytetyt tekniikat
