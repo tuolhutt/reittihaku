@@ -33,4 +33,4 @@ osoite: http://127.0.0.1:5000/
 
 # Ratkaisusta
 
-Ohjelma ratkaisee käynnistyessään iteroimalla kaikkien alku-/loppupysäkki-kombinaatioiden lyhimmät reitit. Lisäksi se ratkaisee jokaiselle reitille sellaisen linjastovalinnan, jotta vaihtoja tulee mahdollisimman vähän. Aikaa tämän lähtötilan selvittämiseen kuluu noin 10ms.
+Ohjelma ratkaisee (ensimmäisen yhteyden alussa) iteroimalla kaikkien alku-/loppupysäkki-kombinaatioiden nopeimmat reitit. Lisäksi se ratkaisee jokaiselle reitille sellaisen linjastovalinnan, jotta vaihtoja tulee mahdollisimman vähän. Aikaa näiden selvittämiseen kuluu noin 10ms.

@@ -84,5 +84,4 @@ def start():
 
 
 if __name__ == '__main__':
-    #start()
     app.run(threaded=True, port=5000)
