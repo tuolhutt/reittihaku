@@ -1,9 +1,11 @@
 # reittihaku
-Reittihaku-applikaatio (Solidabis koodihaaste, [linkki](https://koodihaaste.solidabis.com/))
+
+Reittihaku-applikaatio (Solidabis koodihaaste, [nettisivu](https://koodihaaste.solidabis.com/))
 
 
 # Käytetyt tekniikat
-Python, Flask, Javascript
+
+* Python, Flask, Javascript
 
 Kehitetty Linux-käyttöjärjestelmää (Debian) käyttäen.
 
@@ -21,4 +23,10 @@ Kehitetty Linux-käyttöjärjestelmää (Debian) käyttäen.
 * Käynnistys
 
 `cd reittihaku/cgi-bin/`
+
 `python3 web.py local`
+
+
+# Ratkaisusta
+
+Ohjelma ratkaisee käynnistyessään iteroimalla kaikkien alku-/loppupysäkki-kombinaatioiden lyhimmät reitit. Lisäksi se ratkaisee jokaiselle reitille sellaisen linjastovalinnan, jotta vaihtoja tulee mahdollisimman vähän. Aikaa tämän lähtötilan selvittämiseen kuluu noin 10ms.
