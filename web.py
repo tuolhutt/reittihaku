@@ -82,15 +82,4 @@ def start():
 
 if __name__ == '__main__':
     start()
-
-    use_local=False
-    try:
-        if argv[1]=="local":
-            use_local=True
-    except:
-        pass
-    
-    if use_local:
-        app.run(debug=True, host='127.0.0.1', port=5000)
-    else:
-        app.run(debug=True, host='0.0.0.0', port=80)
+    app.run(threaded=True, port=5000)
