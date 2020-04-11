@@ -7,7 +7,7 @@ Reittihaku-applikaatio (Solidabis koodihaaste, [nettisivu](https://koodihaaste.s
 
 * Python, Flask, Javascript
 
-Kehitetty Linux-käyttöjärjestelmää (Debian) käyttäen.
+Kehitetty Linux-käyttöjärjestelmää (Debian-based) käyttäen.
 
 
 # Käyttäminen lokaalisti (Linux)
