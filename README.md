@@ -14,7 +14,7 @@ Ratkaisuni Solidabis koodihaasteeseen ([nettisivu](https://koodihaaste.solidabis
 Kehitetty Linux-käyttöjärjestelmää (Debian-based) käyttäen.
 
 
-# Käyttäminen lokaalisti (Linux)
+# Testaaminen lokaalisti (Linux)
 
 * Gitin kopioiminen
 
