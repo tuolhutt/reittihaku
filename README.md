@@ -11,11 +11,11 @@ Kehitetty Linux-käyttöjärjestelmää (Debian) käyttäen.
 # Käyttäminen lokaalisti (Linux)
 
 * Gitin kopioiminen:
-´git clone https://github.com/tuolhutt/reittihaku.git´
+`git clone https://github.com/tuolhutt/reittihaku.git`
 
 * Requirements
-´sudo pip3 install flask´
+`sudo pip3 install flask`
 
 * Käynnistys
-´cd reittihaku/cgi-bin/´
-´python3 web.py local´
+`cd reittihaku/cgi-bin/`
+`python3 web.py local`
