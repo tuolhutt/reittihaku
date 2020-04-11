@@ -36,6 +36,9 @@ def reitti():
     global stops_coordinates,roads_coordinates
     global stops
 
+    if not roadtable:
+        start()
+
     try:
         stop1=request.form['stop1'].upper()
         stop2=request.form['stop2'].upper()
@@ -81,5 +84,5 @@ def start():
 
 
 if __name__ == '__main__':
-    start()
+    #start()
     app.run(threaded=True, port=5000)
