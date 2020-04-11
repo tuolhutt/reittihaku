@@ -27,6 +27,8 @@ def main():
     colors=read_json(colors_file)
 
     shortest=calculate_shortest_routes(roadtable)
+    #print(shortest["A"]["B"])
+    
     return "done"
 
 
@@ -154,7 +156,7 @@ def colors_recursive(stops,betweens,last_route=""):
         if last_route in routes:
             return 0,[last_route]
         elif not last_route:
-            return 0,[last_route]
+            return 0,[routes[0]]
         else:
             return 1,[routes[0]]
 
