@@ -2,6 +2,8 @@
 
 Tekijä: Tuomo Huttu
 
+Päiväys: 11.4.2020
+
 Ratkaisuni Solidabis koodihaasteeseen ([nettisivu](https://koodihaaste.solidabis.com/))
 
 
@@ -17,10 +19,6 @@ Kehitetty Linux-käyttöjärjestelmää (Debian-based) käyttäen.
 * Gitin kopioiminen
 
 `git clone https://github.com/tuolhutt/reittihaku.git`
-
-* Requirements
-
-`sudo pip3 install flask`
 
 * Käynnistys
 
