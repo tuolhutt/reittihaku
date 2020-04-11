@@ -28,6 +28,10 @@ Kehitetty Linux-käyttöjärjestelmää (Debian-based) käyttäen.
 
 `python3 web.py local`
 
+* Avaaminen selaimessa
+
+osoite: http://127.0.0.1:5000/
+
 
 # Ratkaisusta
 
