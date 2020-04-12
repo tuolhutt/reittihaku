@@ -22,9 +22,9 @@ Kehitetty Linux-käyttöjärjestelmää (Debian-based) käyttäen.
 
 * Käynnistys
 
-`cd reittihaku/cgi-bin/`
+`cd reittihaku/`
 
-`python3 web.py local`
+`python3 web.py`
 
 * Avaaminen selaimessa
 
